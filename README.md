@@ -4,10 +4,9 @@
 #### 👨‍👩‍👧‍👦 Team Info
 |이름|work|                    
 |:---:|:---:|                                     
-|<span style="color:blue">[이선오]|데이터 전처리, 데이터 EDA/시각화, 머신러닝 모델 개발/튜닝, PPT 제작|   
-|<span style="color:blue">[이영빈]|데이터 전처리, 텍스트분석 모델 개발, PPT 기획, PPT 제작|   
-|<span style="color:blue">[이위성]|블로그/뉴스 기사 크롤링, 데이터 전처리, 워드클라우드 제작, 딥러닝 모델|   
-
+|<span style="color:blue">이선오|데이터 전처리, 데이터 EDA/시각화, 머신러닝 모델 개발/튜닝, PPT 제작|   
+|<span style="color:blue">이영빈|데이터 전처리, 텍스트분석 모델 개발, PPT 기획, PPT 제작|   
+|<span style="color:blue">이위성|블로그/뉴스 기사 크롤링, 데이터 전처리, 워드클라우드 제작, 딥러닝 모델|   
 ---
 
 ## 1. 🛫 Prediction Flight Delay 🛫         
