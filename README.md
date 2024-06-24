@@ -6,11 +6,14 @@
 |:---:|:---:|                                     
 |<span style="color:blue">이선오|데이터 전처리, 데이터 EDA/시각화, 머신러닝 모델 개발/튜닝, PPT 제작|   
 |<span style="color:blue">이영빈|데이터 전처리, 텍스트분석 모델 개발, PPT 기획, PPT 제작|   
-|<span style="color:blue">이위성|블로그/뉴스 기사 크롤링, 데이터 전처리, 워드클라우드 제작, 딥러닝 모델|   
+|<span style="color:blue">이위성|블로그/뉴스 기사 크롤링, 데이터 전처리, 워드클라우드 제작, 딥러닝 모델|    
+
+![보람삼조_포스터](https://github.com/seonseono/Flight_Delay_Project/assets/115915544/147e370c-fe5a-43e6-9733-4538e0b1d244)    
+
 ---
 
 ## 1. 🛫 Prediction Flight Delay 🛫         
-<img src="">        
+![화면 캡처 2024-06-24 180051](https://github.com/seonseono/Flight_Delay_Project/assets/115915544/e8fd9252-5933-49c2-9e85-8c13ad8c9e7a)    
 
 Dacon 경진대회 : **월간 데이콘 항공편 지연 예측 AI 경진대회**                    
 주소 : [https://dacon.io/competitions/official/236094/overview/description](https://dacon.io/competitions/official/236094/overview/description)         
